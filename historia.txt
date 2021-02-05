@@ -7,4 +7,6 @@ continuemos
 
 master 1
 
+master 2
+
 mide 1.68 aunque la cedula diga mas
